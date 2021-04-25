@@ -1,202 +1,204 @@
-[
-    {
-        "firstName": "Jon",
-        "lastName": "Jones",
-        "nickname": "Bones",
-        "wins": 28,
-        "losses": 1,
-        "height": 1.93,
-        "weightClass": "light heavyweight",
-        "location": "Albuquerque, NM"
-    },
-    {
-        "firstName": "Kamarudeen",
-        "lastName": "Usman",
-        "nickname": "The Nigerian Nightmare",
-        "wins": 18,
-        "losses": 1,
-        "height": 1.83,
-        "weightClass": "welterweight",
-        "location": "Fort Lauderdale, FL`"
-    },
-    {
-        "firstName": "Alexander",
-        "lastName": "Volkanovski",
-        "nickname": "The Great",
-        "wins": 22,
-        "losses": 1,
-        "height": 1.68,
-        "weightClass": "featherweight",
-        "location": "Windang, Australia"
-    },
-    {
-        "firstName": "Israel",
-        "lastName": "Adesanya",
-        "nickname": "The Last Stylebender",
-        "wins": 20,
-        "losses": 1,
-        "height": 1.93,
-        "weightClass": "middleweight",
-        "location": "Auckland, New Zealand"
-    },
-    {
-        "firstName": "Francis",
-        "lastName": "Ngannou",
-        "nickname": "The Predator",
-        "wins": 16,
-        "losses": 3,
-        "height": 1.93,
-        "weightClass": "heavyweight",
-        "location": "Paris, France"
-    },
-    {
-        "firstName": "Dustin",
-        "lastName": "Poirier",
-        "nickname": "The Diamond",
-        "wins": 27,
-        "losses": 6,
-        "height": 1.75,
-        "weightClass": "lightweight",
-        "location": "Coconut Creek, FL"
-    },
-    {
-        "firstName": "Stipe",
-        "lastName": "Miocic",
-        "nickname": "n/a",
-        "wins": 20,
-        "losses": 4,
-        "height": 1.93,
-        "weightClass": "heavyweight",
-        "location": "Independence, OH"
-    },
-    {
-        "firstName": "Jan",
-        "lastName": "Blachowicz",
-        "nickname": "n/a",
-        "wins": 28,
-        "losses": 8,
-        "height": 1.88,
-        "weightClass": "light heavyweight",
-        "location": "Warsaw, Poland"
-    },
-    {
-        "firstName": "Max",
-        "lastName": "Holloway",
-        "nickname": "Blessed",
-        "wins": 22,
-        "losses": 6,
-        "height": 1.80,
-        "weightClass": "featherweight",
-        "location": "Waianae, HI"
-    },
-    {
-        "firstName": "Deiveson",
-        "lastName": "Figueiredo",
-        "nickname": "Daico",
-        "wins": 20,
-        "losses": 2,
-        "height": 1.65,
-        "weightClass": "flyweight",
-        "location": "Soure, Brazil"
-    },
-    {
-        "firstName": "Robert",
-        "lastName": "Whittaker",
-        "nickname": "The Reaper",
-        "wins": 23,
-        "losses": 5,
-        "height": 1.80,
-        "weightClass": "middleweight",
-        "location": "Windang, Australia"
-    },
-    {
-        "firstName": "Petr",
-        "lastName": "Yan",
-        "nickname": "No Mercy",
-        "wins": 15,
-        "losses": 2,
-        "height": 1.70,
-        "weightClass": "bantamweight",
-        "location": "Yekaterinburg, Russia"
-    },
-    {
-        "firstName": "Justin",
-        "lastName": "Gaethje",
-        "nickname": "The Highlight",
-        "wins": 22,
-        "losses": 3,
-        "height": 1.80,
-        "weightClass": "lightweight",
-        "location": "Arvada, CO"
-    },
-    {
-        "firstName": "Aljamain",
-        "lastName": "Sterling",
-        "nickname": "n/a",
-        "wins": 20,
-        "losses": 3,
-        "height": 1.70,
-        "weightClass": "featherweight",
-        "location": "Massapequa, NY"
-    },
-    {
-        "firstName": "Conor",
-        "lastName": "McGregor",
-        "nickname": "Notorious",
-        "wins": 22,
-        "losses": 5,
-        "height": 1.75,
-        "weightClass": "lightweight",
-        "location": "Dublin, Ireland"
-    },
-    {
-        "firstName": "Darren",
-        "lastName": "Till",
-        "nickname": "The Gorilla",
-        "wins": 18,
-        "losses": 3,
-        "height": 1.83,
-        "weightClass": "middleweight",
-        "location": "Liverpool, England"
-    },
-    {
-        "firstName": "Anthony",
-        "lastName": "Smith",
-        "nickname": "Lionheart",
-        "wins": 34,
-        "losses": 16,
-        "height": 1.93,
-        "weightClass": "light heavyweight",
-        "location": "Omaha, NE"
-    },
-    {
-        "firstName": "Johnny",
-        "lastName": "Walker",
-        "nickname": "n/a",
-        "wins": 18,
-        "losses": 5,
-        "height": 1.98,
-        "weightClass": "heavyweight",
-        "location": "Dublin, Ireland"
-    },
-    {
-        "firstName": "Chris",
-        "lastName": "Weidman",
-        "nickname": "The All-American",
-        "wins": 15,
-        "losses": 5,
-        "height": 1.88,
-        "weightClass": "middleweight",
-        "location": "Simpsonville, SC"
-    },
-    {
-        "firstName": "Kevin",
-        "lastName": "Holland",
-        "nickname": "Trail Blazer",
-        "wins": 21,
-        "losses": 7,
-        "height": 1.91,
-        "weightClass": "middleweight",
-        "location": "Fort Worth, TX"
-    },
-]
+{ 
+    "fighters" : [
+        {
+            "firstName": "Jon",
+            "lastName": "Jones",
+            "nickname": "Bones",
+            "wins": 28,
+            "losses": 1,
+            "height": 1.93,
+            "weightClass": "light heavyweight",
+            "location": "Albuquerque, NM"
+        },
+        {
+            "firstName": "Kamarudeen",
+            "lastName": "Usman",
+            "nickname": "The Nigerian Nightmare",
+            "wins": 18,
+            "losses": 1,
+            "height": 1.83,
+            "weightClass": "welterweight",
+            "location": "Fort Lauderdale, FL`"
+        },
+        {
+            "firstName": "Alexander",
+            "lastName": "Volkanovski",
+            "nickname": "The Great",
+            "wins": 22,
+            "losses": 1,
+            "height": 1.68,
+            "weightClass": "featherweight",
+            "location": "Windang, Australia"
+        },
+        {
+            "firstName": "Israel",
+            "lastName": "Adesanya",
+            "nickname": "The Last Stylebender",
+            "wins": 20,
+            "losses": 1,
+            "height": 1.93,
+            "weightClass": "middleweight",
+            "location": "Auckland, New Zealand"
+        },
+        {
+            "firstName": "Francis",
+            "lastName": "Ngannou",
+            "nickname": "The Predator",
+            "wins": 16,
+            "losses": 3,
+            "height": 1.93,
+            "weightClass": "heavyweight",
+            "location": "Paris, France"
+        },
+        {
+            "firstName": "Dustin",
+            "lastName": "Poirier",
+            "nickname": "The Diamond",
+            "wins": 27,
+            "losses": 6,
+            "height": 1.75,
+            "weightClass": "lightweight",
+            "location": "Coconut Creek, FL"
+        },
+        {
+            "firstName": "Stipe",
+            "lastName": "Miocic",
+            "nickname": "n/a",
+            "wins": 20,
+            "losses": 4,
+            "height": 1.93,
+            "weightClass": "heavyweight",
+            "location": "Independence, OH"
+        },
+        {
+            "firstName": "Jan",
+            "lastName": "Blachowicz",
+            "nickname": "n/a",
+            "wins": 28,
+            "losses": 8,
+            "height": 1.88,
+            "weightClass": "light heavyweight",
+            "location": "Warsaw, Poland"
+        },
+        {
+            "firstName": "Max",
+            "lastName": "Holloway",
+            "nickname": "Blessed",
+            "wins": 22,
+            "losses": 6,
+            "height": 1.80,
+            "weightClass": "featherweight",
+            "location": "Waianae, HI"
+        },
+        {
+            "firstName": "Deiveson",
+            "lastName": "Figueiredo",
+            "nickname": "Daico",
+            "wins": 20,
+            "losses": 2,
+            "height": 1.65,
+            "weightClass": "flyweight",
+            "location": "Soure, Brazil"
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Whittaker",
+            "nickname": "The Reaper",
+            "wins": 23,
+            "losses": 5,
+            "height": 1.80,
+            "weightClass": "middleweight",
+            "location": "Windang, Australia"
+        },
+        {
+            "firstName": "Petr",
+            "lastName": "Yan",
+            "nickname": "No Mercy",
+            "wins": 15,
+            "losses": 2,
+            "height": 1.70,
+            "weightClass": "bantamweight",
+            "location": "Yekaterinburg, Russia"
+        },
+        {
+            "firstName": "Justin",
+            "lastName": "Gaethje",
+            "nickname": "The Highlight",
+            "wins": 22,
+            "losses": 3,
+            "height": 1.80,
+            "weightClass": "lightweight",
+            "location": "Arvada, CO"
+        },
+        {
+            "firstName": "Aljamain",
+            "lastName": "Sterling",
+            "nickname": "n/a",
+            "wins": 20,
+            "losses": 3,
+            "height": 1.70,
+            "weightClass": "featherweight",
+            "location": "Massapequa, NY"
+        },
+        {
+            "firstName": "Conor",
+            "lastName": "McGregor",
+            "nickname": "Notorious",
+            "wins": 22,
+            "losses": 5,
+            "height": 1.75,
+            "weightClass": "lightweight",
+            "location": "Dublin, Ireland"
+        },
+        {
+            "firstName": "Darren",
+            "lastName": "Till",
+            "nickname": "The Gorilla",
+            "wins": 18,
+            "losses": 3,
+            "height": 1.83,
+            "weightClass": "middleweight",
+            "location": "Liverpool, England"
+        },
+        {
+            "firstName": "Anthony",
+            "lastName": "Smith",
+            "nickname": "Lionheart",
+            "wins": 34,
+            "losses": 16,
+            "height": 1.93,
+            "weightClass": "light heavyweight",
+            "location": "Omaha, NE"
+        },
+        {
+            "firstName": "Johnny",
+            "lastName": "Walker",
+            "nickname": "n/a",
+            "wins": 18,
+            "losses": 5,
+            "height": 1.98,
+            "weightClass": "heavyweight",
+            "location": "Dublin, Ireland"
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Weidman",
+            "nickname": "The All-American",
+            "wins": 15,
+            "losses": 5,
+            "height": 1.88,
+            "weightClass": "middleweight",
+            "location": "Simpsonville, SC"
+        },
+        {
+            "firstName": "Kevin",
+            "lastName": "Holland",
+            "nickname": "Trail Blazer",
+            "wins": 21,
+            "losses": 7,
+            "height": 1.91,
+            "weightClass": "middleweight",
+            "location": "Fort Worth, TX"
+        }
+    ]
+}
